@@ -1,4 +1,4 @@
-![Uploading Screenshot from 2021-01-29 23-48-14.png…]()
+![Screenshot from 2021-01-29 23-48-14](https://user-images.githubusercontent.com/43479446/106728491-8292f880-6632-11eb-9576-ec7c518af4b7.png)
 
 # Getting Started with Create React App
 
