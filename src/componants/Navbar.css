@@ -1,0 +1,15 @@
+.jumbo{
+    background-color:rgb(223, 21, 95);
+    /* margin:auto; */
+  }
+  
+  .piyush{
+    color:white;
+    text-align: center;
+    font-family: 'Days One', sans-serif;
+    font-size: -20px;
+  }
+  
+  @media all and (max-width: 699px) and (min-width: 520px), (min-width: 1151px) {
+   
+    }
